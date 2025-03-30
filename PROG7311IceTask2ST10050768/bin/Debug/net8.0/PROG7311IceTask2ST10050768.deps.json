@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PROG7311IceTask2ST10050768/1.0.0": {
+        "runtime": {
+          "PROG7311IceTask2ST10050768.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROG7311IceTask2ST10050768/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
